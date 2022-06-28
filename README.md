@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chirag2794
 - 👀 I’m interested in data science 
 - 🌱 I’m currently working in machine learning/Sql/Tableau/Powerbi/SSIS
-- 💞️ I’m looking to collaborate on ...
+- 💞
 - 📫 How to reach me youtube
 
 <!---
